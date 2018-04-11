@@ -1,4 +1,4 @@
-This is the web site for Hochschule Reutlingen Cloud Demos.
+This is the web site for the Meetup at the University of Stuttgart Cloud Demos.
 
 # Publish New Content
 
