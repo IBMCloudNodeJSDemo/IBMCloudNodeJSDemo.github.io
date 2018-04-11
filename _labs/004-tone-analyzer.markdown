@@ -50,7 +50,7 @@ The purpose of this exercise is to enable you to configure and use existing clou
 The sample app uses the Watson Tone Analyzer service to score lines of text as happy or unhappy.
 The app provides a basic user interface and an API that you will use in an later excercise.
 
-- Fork the git repository [linked here](https://github.com/HRTCloudDemo/HRTToneDemo) into your own Github account by pressing the **Fork** button in that Github Repository
+- Fork the git repository [linked here](https://github.com/IBMCloudNodeJSDemo/NodeJSDemo) into your own Github account by pressing the **Fork** button in that Github Repository
 
   ![fork](lab4_fork.png?raw=true)
 
